@@ -1,2 +1,2 @@
 # RStudio
-This repository consist personal project or campus exercise using econometrics models
+This repository contains  personal project or campus exercise using econometrics models
